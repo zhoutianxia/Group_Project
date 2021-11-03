@@ -23,7 +23,7 @@
   <cloud-tip-modal showUploadTipProps="{{showUploadTip}}"></cloud-tip-modal>
 
 </view>
-<text style="position:relative;">文本</text>
+<text style="position:relative;">这是第一个版本</text>
 <button>按钮</button>
 
 
