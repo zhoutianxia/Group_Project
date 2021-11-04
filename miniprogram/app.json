@@ -14,11 +14,25 @@
     "pages/sumRecordResult/index"
   ],
   "window": {
+    "enablePullDownRefresh": true,
     "backgroundColor": "#F6F6F6",
-    "backgroundTextStyle": "light",
+    "backgroundTextStyle": "dark",
     "navigationBarBackgroundColor": "#F6F6F6",
     "navigationBarTitleText": "haimeixianghao",
     "navigationBarTextStyle": "black"
+  },
+  "tabBar":{
+    "list": [
+    {
+    "pagePath":"pages/index/index",
+    "text": "第一个界面"
+
+    },
+    {
+      "pagePath":"pages/index/index",
+      "text": "第二个界面"
+    }
+    ]
   },
   "sitemapLocation": "sitemap.json",
   "style": "v2"
