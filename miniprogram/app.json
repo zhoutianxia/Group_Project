@@ -25,12 +25,16 @@
     "list": [
     {
     "pagePath":"pages/index/index",
-    "text": "第一个界面"
+    "text": "发现"
 
     },
     {
       "pagePath":"pages/index/index",
-      "text": "第二个界面"
+      "text": "发布"
+    },
+    {
+      "pagePath":"pages/index/index",
+      "text": "我的"
     }
     ]
   },
